@@ -1,3 +1,3 @@
 # Asistentes curso Git
 
-Desiderio Marti alcaraz
+- Desiderio Marti alcaraz
